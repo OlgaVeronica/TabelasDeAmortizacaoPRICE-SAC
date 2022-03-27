@@ -6,10 +6,8 @@ namespace TabelaPrice.RegrasDeNegocio
     {        
         public Price()
         {
-            
-        Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, MUDNP");
         }
-        
     }
 }
     
